@@ -1,3 +1,9 @@
+/*
+Write a C program to calculate area of a rectangular:
+    a. Using hard coded inputs.
+    b. using inputs supplies by the user.
+*/
+
 #include<stdio.h>
 
 int main(){
